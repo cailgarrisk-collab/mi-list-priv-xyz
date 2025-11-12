@@ -67,8 +67,6 @@ http://192.168.1.22:8088/ace/getstream?id=8e1bbcb6a6b8b9bb0e1144454fda35531107cd
 http://192.168.1.22:8088/ace/getstream?id=56457cde219abe22cdc3f6c2083a37b0324b3b0c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/TVG%20Europa%20HD.png" tvg-id="TVG Europa HD" group-title="MOVISTAR", TVG EUROPA HD 21c1 --> NEW ERA
 http://192.168.1.22:8088/ace/getstream?id=d48b299bbcd811cfd14159224bf5012a305021c1
-#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3AXTRM_Espa%25C3%25B1a.png&psig=AOvVaw3MO7LTsUT9-gIyBuLPTnKK&ust=1760139958174000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPiGirimmJADFQAAAAAdAAAAABAE" tvg-id="XTRM" group-title="MOVISTAR", XTRM FHD 76a0 --> NEW ERA
-http://192.168.1.22:8088/ace/getstream?id=d7d3830018cfd93c7430c19ba703a053680476a0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 FHD f4b1 --> NEW ERA VI
 http://192.168.1.22:8088/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 FHD 2884 --> NEW ERA VI
@@ -93,8 +91,8 @@ http://192.168.1.22:8088/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d
 http://192.168.1.22:8088/ace/getstream?id=d4ff041287a43e3114d411d671c4b4e92e21f33y
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA FHD f231 --> NEW ERA VI
 http://192.168.1.22:8088/ace/getstream?id=107c3ce5a5d2527c9f06e4eab87477201791f231
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA FHD 38a0 --> NEW ERA VI
-http://192.168.1.22:8088/ace/getstream?id=d2ddf9802ccfdc456f872eea4d24596880a638a0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA FHD e61c --> NEW ERA VI
+http://192.168.1.22:8088/ace/getstream?id=8c30b600cc48899991b452805df48b68d998e61c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA 9947 --> ELCANO
 http://192.168.1.22:8088/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA FHD bf1e --> ELCANO
@@ -125,8 +123,6 @@ http://192.168.1.22:8088/ace/getstream?id=2a6b1fd8a24b23747db1ea534a514577085236
 http://192.168.1.22:8088/ace/getstream?id=1bcee22d5476f2eae9dc2cb24e3685152cf285cb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-4-por-movistar-plus-es.png" tvg-id="M+ LaLiga 4" group-title="LA LIGA", M+ LALIGA 4 a6f1 --> SPORT TV
 http://192.168.1.22:8088/ace/getstream?id=22178d72e0f255dedd7e56f9474fea879289a6f1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 4K 1786 --> NEW ERA
-http://192.168.1.22:8088/ace/getstream?id=678a1e93fbfbd499c329886bfdda780e73ac1786
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES FHD a2cc --> NEW ERA
 http://192.168.1.22:8088/ace/getstream?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES FHD 4c6a --> NEW ERA
@@ -181,8 +177,6 @@ http://192.168.1.22:8088/ace/getstream?id=5620c0ce3dcbf14a6375cb2c2d681207f45eb9
 http://192.168.1.22:8088/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD 3fa9 --> NEW ERA
 http://192.168.1.22:8088/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 HD 8ec7 --> NEW ERA
-http://192.168.1.22:8088/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD f025 --> NEW ERA VI
 http://192.168.1.22:8088/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD 94b7 --> NEW ERA VI
@@ -275,8 +269,6 @@ http://192.168.1.22:8088/ace/getstream?id=709075831bf5c41ed0a20dfbd640aab6c28971
 http://192.168.1.22:8088/ace/getstream?id=1ba18731a8e18bb4b3a5dfa5bb7b0f05762849a6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/826y2Yv/Hypermotion3.png" tvg-id="LaLiga TV Hypermotion 3" group-title="HYPERMOTION", HYPERMOTION 3 724e --> ELCANO
 http://192.168.1.22:8088/ace/getstream?id=778d2f60bb7207addedcca0b9aed98f41529724e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m54QH9Gt/copa.png" tvg-id="M+ Copa del Rey" group-title="COPA DEL REY", COPA DEL REY FHD 5afd --> NEW ERA
-http://192.168.1.22:8088/ace/getstream?id=28205d7c9776b96a1f479c9082e80bd1e18f5afd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 FHD f909 --> NEW ERA
 http://192.168.1.22:8088/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 FHD 705d --> NEW ERA
@@ -315,6 +307,8 @@ http://192.168.1.22:8088/ace/getstream?id=690f0f15439c773017ace3b6979c6e518d8654
 http://192.168.1.22:8088/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png" tvg-id="FR | beIN SPORTS 3" group-title="FUTBOL INT", BEIN SPORTS 3 2cf8 --> SPORT TV
 http://192.168.1.22:8088/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/320px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" tvg-id="beIN SPORTS XTRA ñ" group-title="FUTBOL INT", BEIN SPORTS Ñ 68f9 --> NEW LOOP
+http://192.168.1.22:8088/ace/getstream?id=e8e459656f964f601ad4bcda8b81a43ba41c68f9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="FUTBOL INT", BT Sport 1 [UK] 9bce --> SPORT TV
 http://192.168.1.22:8088/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="FUTBOL INT", BT Sport 1 [UK] 3c5b --> SPORT TV
@@ -355,8 +349,6 @@ http://192.168.1.22:8088/ace/getstream?id=5f9b19c57195cc28ab81e0ec8cad03b5511868
 http://192.168.1.22:8088/ace/getstream?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" tvg-id="ESPN" group-title="FUTBOL INT", ESPN HD [US] f442 --> SPORT TV
 http://192.168.1.22:8088/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" tvg-id="" group-title="FUTBOL INT", ESPN ARGENTINA cd47 --> NEW ERA
-http://192.168.1.22:8088/ace/getstream?id=4bf4431b4815f07c1b3749f5a10f905ba566cd47
 #EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/468.png" tvg-id="" group-title="FUTBOL INT", ESPN ARGENTINA 2 HD c491 --> NEW ERA
 http://192.168.1.22:8088/ace/getstream?id=ab7f9cc29ad09ee9575fed758ab317c818fdc491
 #EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/468.png" tvg-id="" group-title="FUTBOL INT", ESPN ARGENTINA 3 HD d56c --> NEW ERA
@@ -367,8 +359,6 @@ http://192.168.1.22:8088/ace/getstream?id=216d20acdaf01a196eda71c81a7a7d5bcbe5ed
 http://192.168.1.22:8088/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1 tvg-logo="https://i.ibb.co/10xGrD4/Premier2.png" tvg-id="UK | Premier Sports 2" group-title="FUTBOL INT", PREMIER SPORTS 2 9537 --> SPORT TV
 http://192.168.1.22:8088/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" tvg-id="" group-title="FUTBOL INT", S SPORT 1 FHD ec0b --> NEW ERA
-http://192.168.1.22:8088/ace/getstream?id=6ad87abc93cc3c8508be327e313afcd3aa37ec0b
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Football_GB_logo.png?1734015024" tvg-id="UK | Sky Sport Football" group-title="FUTBOL INT", SKY SPORTS FOOTBALL b26d --> SPORT TV
 http://192.168.1.22:8088/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" tvg-id="" group-title="FUTBOL INT", TR: S SPORT 2 HD c0a4 --> NEW ERA
@@ -393,12 +383,12 @@ http://192.168.1.22:8088/ace/getstream?id=b8b8c4470d3d27c75302cf49ab6c4b52a660bf
 http://192.168.1.22:8088/ace/getstream?id=cc5ed178702605513cd18b4899c4be954d306cca
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qFgSG92W/antena3.png" tvg-id="Antena 3 HD" group-title="TDT", ANTENA 3 FHD 40e9 --> NEW ERA
 http://192.168.1.22:8088/ace/getstream?id=f9d2a6d5da8d1f2423a0b6ed0047636a728040e9
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Arag%C3%B3n%20TV%20Internacional.png?raw=true" tvg-id="Aragón TV" group-title="TDT", ARAGON TV HD 006b --> NEW ERA
+http://192.168.1.22:8088/ace/getstream?id=ba4597903f099695e7d6bcc5938f91cb0798006b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C3yh66tp/cuatro.png" tvg-id="Cuatro HD" group-title="TDT", CUATRO FHD 4ef0 --> NEW ERA
 http://192.168.1.22:8088/ace/getstream?id=8d66979e705a8b532b9243bbc0862c0f1c734ef0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C3yh66tp/cuatro.png" tvg-id="Cuatro HD" group-title="TDT", CUATRO FHD 0333 --> ELCANO
 http://192.168.1.22:8088/ace/getstream?id=8670df538a11c6ec97b3f634981ddc4409ca0333
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 4K 73d0 --> NEW ERA
-http://192.168.1.22:8088/ace/getstream?id=6a54f8fb00406c88f68ac3f3aabc7d084f9573d0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 FHD 740c --> NEW ERA
 http://192.168.1.22:8088/ace/getstream?id=dad5e0e0825cb3e410008f1c4252387b868e740c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFzzqWw5/la2.png" tvg-id="La 2" group-title="TDT", LA 2 FHD c2ed --> NEW ERA
@@ -463,8 +453,8 @@ http://192.168.1.22:8088/ace/getstream?id=4bfeb0516c44c4f0e3502e3f1ca1035d39ddf9
 http://192.168.1.22:8088/ace/getstream?id=21be4fe2052fc66456b4f233428bb40a681bf863
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", NFL USA SD 5d62 --> NEW ERA
 http://192.168.1.22:8088/ace/getstream?id=5a71a114fdf460fc90f88b959f83625b964a5d62
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Orange TV 24fa --> NEW LOOP
-http://192.168.1.22:8088/ace/getstream?id=abdbfccdfd73bb5b1dcad598d539058040fb24fa
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Pluto TV Auto Motor Sport (720p) 2595 --> NEW LOOP
+http://192.168.1.22:8088/ace/getstream?id=ffa09e597804001f634dd1829f031823411a2595
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RTL+ SPORT EVENT 1 (DE) 23d3 --> SPORT TV
 http://192.168.1.22:8088/ace/getstream?id=a7319ebd54cb1db9a9db1574929ca8d305a323d3
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RTL+ SPORT EVENT 2 (DE) c466 --> SPORT TV
@@ -545,6 +535,8 @@ http://192.168.1.22:8088/ace/getstream?id=b2d560741c006fc5e4a42412bb52dbd25a6a4a
 http://192.168.1.22:8088/ace/getstream?id=73094658f0a3ed523c0e188de67a7a690c0d4f93
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mix_TV_logo.svg/1200px-Mix_TV_logo.svg.png" tvg-id="" group-title="DEPORTES", MIXED TV (solo eventos) 21b3 --> NEW ERA III
 http://192.168.1.22:8088/ace/getstream?id=eb25ebc41fc51710b098f860b33b3229d11921b3
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Esport%203.png?raw=true" tvg-id="Real Madrid TV" group-title="DEPORTES", REAL MADRID TV HD 891e --> NEW ERA
+http://192.168.1.22:8088/ace/getstream?id=7a955964c91c66311eef9137a96332352dbb891e
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" tvg-id="UK | Sky Sport Arena" group-title="DEPORTES", SKY SPORTS ARENA b79c --> SPORT TV
 http://192.168.1.22:8088/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Sky%20Sport%20Cricket.png" tvg-id="UK | Sky Sport Cricket" group-title="DEPORTES", SKY SPORTS CRICKET 3ddd --> SPORT TV
@@ -1003,7 +995,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1abf5fafb5ee0007d4d0
 http://176.65.146.237:8401/play/a09p/index.m3u8
 #EXTINF:-1 tvg-id="Fibwi.es@SD" tvg-logo="https://i.imgur.com/4vcGzcC.png" group-title="Z - GENERAL EN ESPAÑOL (No Acestream)",Fibwi (1080p) [Not 24/7]
 https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk@Spain" tvg-logo="https://i.imgur.com/l5iax42.png" group-title="Z - GENERAL EN ESPAÑOL (No Acestream)",FIFA+ Spain (720p)
+#EXTINF:-1 tvg-id="FIFAPlus.uk@Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png" group-title="Z - GENERAL EN ESPAÑOL (No Acestream)",FIFA+ Spain (720p)
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="FitelTV.es@SD" tvg-logo="https://i.imgur.com/3lAoTq3.png" group-title="Z - GENERAL EN ESPAÑOL (No Acestream)",Fitel TV (1080p)
 https://tv.mywifisocial.es/live.m3u8
@@ -1523,42 +1515,22 @@ https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8
 https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
 #EXTINF:-1 tvg-id="FanDuelSportsNetwork.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/330px-FanDuel_Sports_Network_logo.svg.png" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",FanDuel Sports Network
 https://fl1.moveonjoy.com/PAC_12/index.m3u8
-#EXTINF:-1 tvg-id="FanDuelSportsNetworkDetroit.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/FanDuel_Sports_Network_Detroit_logo.svg" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",FanDuel Sports Network Detroit
-http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31003/index.m3u8
-#EXTINF:-1 tvg-id="FanDuelSportsNetworkDetroitExtra.us@SD" tvg-logo="https://i.imgur.com/FXw3v4u.png" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",FanDuel Sports Network Detroit Extra
-http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31004/index.m3u8
-#EXTINF:-1 tvg-id="FanDuelSportsNetworkFlorida.us@SD" tvg-logo="https://i.imgur.com/V1XSgDr.png" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",FanDuel Sports Network Florida
-http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31005/index.m3u8
-#EXTINF:-1 tvg-id="FanDuelSportsNetworkFloridaPlus.us@SD" tvg-logo="https://i.imgur.com/jNfU9hF.png" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",FanDuel Sports Network Florida Plus
-http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31006/index.m3u8
-#EXTINF:-1 tvg-id="FanDuelSportsNetworkNorth.us@SD" tvg-logo="https://i.imgur.com/VCy962a.png" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",FanDuel Sports Network North
-http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31017/index.m3u8
-#EXTINF:-1 tvg-id="FanDuelSportsNetworkOhio.us@SD" tvg-logo="https://i.imgur.com/dcNrFyg.png" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",FanDuel Sports Network Ohio
-http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31019/index.m3u8
-#EXTINF:-1 tvg-id="FanDuelSportsNetworkOhioCleveland.us@SD" tvg-logo="https://i.imgur.com/7SLneBF.png" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",FanDuel Sports Network Ohio Cleveland
-http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31030/index.m3u8
-#EXTINF:-1 tvg-id="FanDuelSportsNetworkSoCal.us@SD" tvg-logo="" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",FanDuel Sports Network SoCal
-http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31034/index.m3u8
-#EXTINF:-1 tvg-id="FanDuelSportsNetworkSoutheast.us@SD" tvg-logo="https://i.imgur.com/BUmngwB.png" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",FanDuel Sports Network Southeast
-http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31035/index.m3u8
-#EXTINF:-1 tvg-id="FanDuelSportsNetworkSun.us@SD" tvg-logo="https://i.imgur.com/TvrHLaH.png" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",FanDuel Sports Network Sun
-http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31041/index.m3u8
 #EXTINF:-1 tvg-id="FanDuelTV.us@SD" tvg-logo="" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",FanDuel TV (720p)
 https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
 #EXTINF:-1 tvg-id="FBTV.tr@SD" tvg-logo="https://i.imgur.com/qBVqtYd.png" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",FB TV
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk@English" tvg-logo="https://i.imgur.com/l5iax42.png" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",FIFA+
+#EXTINF:-1 tvg-id="FIFAPlus.uk@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",FIFA+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk@French" tvg-logo="https://i.imgur.com/l5iax42.png" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",FIFA+ French (720p)
+#EXTINF:-1 tvg-id="FIFAPlus.uk@French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",FIFA+ French (720p)
 https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk@German" tvg-logo="https://i.imgur.com/l5iax42.png" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",FIFA+ German (720p)
+#EXTINF:-1 tvg-id="FIFAPlus.uk@German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",FIFA+ German (720p)
 https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk@Italy" tvg-logo="https://i.imgur.com/l5iax42.png" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",FIFA+ Italy (720p)
+#EXTINF:-1 tvg-id="FIFAPlus.uk@Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",FIFA+ Italy (720p)
 https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk@Spain" tvg-logo="https://i.imgur.com/l5iax42.png" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",FIFA+ Spain (720p)
+#EXTINF:-1 tvg-id="FIFAPlus.uk@Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",FIFA+ Spain (720p)
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="Fight.us@SD" tvg-logo="https://i.imgur.com/bBv4p5K.png" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",Fight
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca64-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5722f4bc-fbe1-409f-ad8f-4559e5ebda2f
+#EXTINF:-1 tvg-id="FIFAPlus.uk@UnitedStates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",FIFA+ United States (720p)
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="FightNetwork.ca@SD" tvg-logo="https://i.imgur.com/vlKPZHR.png" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",Fight Network (1080p)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="FightNight.za@SD" tvg-logo="https://i.imgur.com/hFmxfzT.png" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",Fight Night (720p)
@@ -1787,8 +1759,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c01df1759ee03633e7b272c&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=971&terminate=false&userId=
 #EXTINF:-1 tvg-id="PlutoTVSport.us@Italy" tvg-logo="https://i.imgur.com/y22ElOr.png" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",Pluto TV Sport Italy (720p)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 tvg-id="PlutoTVSports.us@US" tvg-logo="https://i.imgur.com/Fc3NQAI.png" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",Pluto TV Sports
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b63-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8673a43c-58ba-48b3-8db5-75986abb01b9
 #EXTINF:-1 tvg-id="PokerNightInAmerica.us@SD" tvg-logo="https://i.imgur.com/VTrKSxt.png" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",Poker Night in America (1080p)
 https://d2njbreu8qyfxo.cloudfront.net/scheduler/scheduleMaster/216.m3u8
 #EXTINF:-1 tvg-id="PokerGo.us@US" tvg-logo="https://i.imgur.com/1603HED.png" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",PokerGo
@@ -1882,10 +1852,6 @@ https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SportsmanChannel.us@SD" tvg-logo="https://i.imgur.com/CXauv8M.png" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",Sportsman Channel
 https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="Sportsnet.ca@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/512px-Logo_Sportsnet_2011.svg.png" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",Sportsnet
-http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/6477/index.m3u8
-#EXTINF:-1 tvg-id="Sportsnet360.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/SN_360_logo.svg/512px-SN_360_logo.svg.png" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",Sportsnet 360
-http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/6462/index.m3u8
 #EXTINF:-1 tvg-id="SportsNetNewYork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/512px-SNY_logo.svg.png" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",SportsNet New York (540p)
 https://fl1.moveonjoy.com/SNY/index.m3u8
 #EXTINF:-1 tvg-id="Stadium.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png" group-title="Z - DEPORTES INTERNACIONAL (No Acestream)",Stadium (720p)
@@ -3384,9 +3350,9 @@ https://jmp2.uk/stvp-ES2600008NX
 https://jmp2.uk/stvp-ESAJ38000046O
 #EXTINF:-1 tvg-id="ESBA3300028OE" tvg-name="ESBA3300028OE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300028OE_20241022T050631SQUARE.png" group-title="Z - SamsungTV (No Acestream)" , iCarly
 https://jmp2.uk/stvp-ESBA3300028OE
-#EXTINF:-1 tvg-id="ESBD800001RJ" tvg-name="ESBD800001RJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20251028T011345SQUARE.png" group-title="Z - SamsungTV (No Acestream)" , Cine Friki
+#EXTINF:-1 tvg-id="ESBD800001RJ" tvg-name="ESBD800001RJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20251111T011927SQUARE.png" group-title="Z - SamsungTV (No Acestream)" , Cine Friki
 https://jmp2.uk/stvp-ESBD800001RJ
-#EXTINF:-1 tvg-id="ES2300005G7" tvg-name="ES2300005G7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20251028T011347SQUARE.png" group-title="Z - SamsungTV (No Acestream)" , Cine Western
+#EXTINF:-1 tvg-id="ES2300005G7" tvg-name="ES2300005G7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20251111T011930SQUARE.png" group-title="Z - SamsungTV (No Acestream)" , Cine Western
 https://jmp2.uk/stvp-ES2300005G7
 #EXTINF:-1 tvg-id="ES700004C8" tvg-name="ES700004C8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700004C8_20250211T014052SQUARE.png" group-title="Z - SamsungTV (No Acestream)" , Runtime Familia
 https://jmp2.uk/stvp-ES700004C8
@@ -3396,7 +3362,7 @@ https://jmp2.uk/stvp-ES260001081
 https://jmp2.uk/stvp-ES33000058B
 #EXTINF:-1 tvg-id="ESBC1700004PX" tvg-name="ESBC1700004PX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20250715T004332SQUARE.png" group-title="Z - SamsungTV (No Acestream)" , Trailers
 https://jmp2.uk/stvp-ESBC1700004PX
-#EXTINF:-1 tvg-id="ESBA2200004G5" tvg-name="ESBA2200004G5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200004G5_20250307T152125SQUARE.png" group-title="Z - SamsungTV (No Acestream)" , MyTime Movie Network
+#EXTINF:-1 tvg-id="ESBA2200004G5" tvg-name="ESBA2200004G5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200004G5_20251111T011916SQUARE.png" group-title="Z - SamsungTV (No Acestream)" , MyTime Movie Network
 https://jmp2.uk/stvp-ESBA2200004G5
 #EXTINF:-1 tvg-id="ESBC2700011AZ" tvg-name="ESBC2700011AZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700011AZ_20241022T050514SQUARE.png" group-title="Z - SamsungTV (No Acestream)" , Cines Verdi TV
 https://jmp2.uk/stvp-ESBC2700011AZ
@@ -3406,7 +3372,7 @@ https://jmp2.uk/stvp-ESAJ3800001KT
 https://jmp2.uk/stvp-ESBC400001QQ
 #EXTINF:-1 tvg-id="ES2600013H4" tvg-name="ES2600013H4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600013H4_20241022T050605SQUARE.png" group-title="Z - SamsungTV (No Acestream)" , Películas Top - Rakuten TV
 https://jmp2.uk/stvp-ES2600013H4
-#EXTINF:-1 tvg-id="ESBD800004KU" tvg-name="ESBD800004KU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20250708T030945SQUARE.png" group-title="Z - SamsungTV (No Acestream)" , Runtime Romance
+#EXTINF:-1 tvg-id="ESBD800004KU" tvg-name="ESBD800004KU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20251111T011947SQUARE.png" group-title="Z - SamsungTV (No Acestream)" , Runtime Romance
 https://jmp2.uk/stvp-ESBD800004KU
 #EXTINF:-1 tvg-id="ES2600012C9" tvg-name="ES2600012C9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600012C9_20241022T050603SQUARE.png" group-title="Z - SamsungTV (No Acestream)" , Películas Románticas - Rakuten TV
 https://jmp2.uk/stvp-ES2600012C9
@@ -3418,7 +3384,7 @@ https://jmp2.uk/stvp-ESBC2700012RP
 https://jmp2.uk/stvp-ESBD8000033W
 #EXTINF:-1 tvg-id="ES260000700" tvg-name="ES260000700" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260000700_20241022T051222SQUARE.png" group-title="Z - SamsungTV (No Acestream)" , Comedia - Rakuten TV
 https://jmp2.uk/stvp-ES260000700
-#EXTINF:-1 tvg-id="ES300007KS" tvg-name="ES300007KS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300007KS_20250114T063439SQUARE.png" group-title="Z - SamsungTV (No Acestream)" , Sony One Hits Comedia
+#EXTINF:-1 tvg-id="ES300007KS" tvg-name="ES300007KS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300007KS_20251111T011949SQUARE.png" group-title="Z - SamsungTV (No Acestream)" , Sony One Hits Comedia
 https://jmp2.uk/stvp-ES300007KS
 #EXTINF:-1 tvg-id="ESBC2700002LO" tvg-name="ESBC2700002LO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20251028T011352SQUARE.png" group-title="Z - SamsungTV (No Acestream)" , Grjngo - Películas Del Oeste
 https://jmp2.uk/stvp-ESBC2700002LO
@@ -3440,7 +3406,7 @@ https://jmp2.uk/stvp-ESBC40000248
 https://jmp2.uk/stvp-ES500004NO
 #EXTINF:-1 tvg-id="ESBD80000288" tvg-name="ESBD80000288" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD80000288_20250902T003646SQUARE.png" group-title="Z - SamsungTV (No Acestream)" , Runtime Acción
 https://jmp2.uk/stvp-ESBD80000288
-#EXTINF:-1 tvg-id="ES300006QJ" tvg-name="ES300006QJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300006QJ_20251013T053513SQUARE.png" group-title="Z - SamsungTV (No Acestream)" , Sony One Hits Acción
+#EXTINF:-1 tvg-id="ES300006QJ" tvg-name="ES300006QJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300006QJ_20251111T011921SQUARE.png" group-title="Z - SamsungTV (No Acestream)" , Sony One Hits Acción
 https://jmp2.uk/stvp-ES300006QJ
 #EXTINF:-1 tvg-id="ES2600003UM" tvg-name="ES2600003UM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600003UM_20241022T050439SQUARE.png" group-title="Z - SamsungTV (No Acestream)" , Películas de Drama - Rakuten TV
 https://jmp2.uk/stvp-ES2600003UM
@@ -3466,7 +3432,7 @@ https://jmp2.uk/stvp-ES2500001F9
 https://jmp2.uk/stvp-ES32000027M
 #EXTINF:-1 tvg-id="ES1700005ME" tvg-name="ES1700005ME" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700005ME_20251013T053458SQUARE.png" group-title="Z - SamsungTV (No Acestream)" , NEW KPOP
 https://jmp2.uk/stvp-ES1700005ME
-#EXTINF:-1 tvg-id="ES3900001QG" tvg-name="ES3900001QG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3900001QG_20241105T025339SQUARE.png" group-title="Z - SamsungTV (No Acestream)" , K-POP by CJ ENM
+#EXTINF:-1 tvg-id="ES3900001QG" tvg-name="ES3900001QG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3900001QG_20251111T011938SQUARE.png" group-title="Z - SamsungTV (No Acestream)" , K-POP by CJ ENM
 https://jmp2.uk/stvp-ES3900001QG
 #EXTINF:-1 tvg-id="ES1000001EF" tvg-name="ES1000001EF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1000001EF_20250923T065400SQUARE.png" group-title="Z - SamsungTV (No Acestream)" , SMTOWN
 https://jmp2.uk/stvp-ES1000001EF
@@ -3478,7 +3444,7 @@ https://jmp2.uk/stvp-ESAJ3800007PC
 https://jmp2.uk/stvp-ES300033TI
 #EXTINF:-1 tvg-id="ESBC27000040I" tvg-name="ESBC27000040I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000040I_20250610T010506SQUARE.png" group-title="Z - SamsungTV (No Acestream)" , GoUSA TV
 https://jmp2.uk/stvp-ESBC27000040I
-#EXTINF:-1 tvg-id="ES24000028L" tvg-name="ES24000028L" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES24000028L_20251028T011354SQUARE.png" group-title="Z - SamsungTV (No Acestream)" , Ice Pilots
+#EXTINF:-1 tvg-id="ES24000028L" tvg-name="ES24000028L" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES24000028L_20251111T011935SQUARE.png" group-title="Z - SamsungTV (No Acestream)" , Ice Pilots
 https://jmp2.uk/stvp-ES24000028L
 #EXTINF:-1 tvg-id="ES1600002QL" tvg-name="ES1600002QL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600002QL_20250923T011551SQUARE.png" group-title="Z - SamsungTV (No Acestream)" , La Fiebre del Jade
 https://jmp2.uk/stvp-ES1600002QL
